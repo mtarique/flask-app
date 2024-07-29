@@ -15,3 +15,5 @@ Run the container in deattched mode and expose port 5000
 **3. Run the application**
 
 Go to the browser and open https://127.0.0.1:5000/
+
+![alt text](image.png)
